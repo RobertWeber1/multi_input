@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "multi_input")(type "KiCad")(uri "${KIPRJMOD}/multi_input.kicad_sym")(options "")(descr ""))
+)
